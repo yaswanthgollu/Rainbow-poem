@@ -5,4 +5,4 @@ The rainbow has the following colours
 4.yellow
 5.orange
 6.red
-7.white
+
