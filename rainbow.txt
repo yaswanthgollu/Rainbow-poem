@@ -1,0 +1,8 @@
+The rainbow has the following colours
+1.violet
+2.indigo
+3.blue
+4.yellow
+5.orange
+6.red
+7.white
