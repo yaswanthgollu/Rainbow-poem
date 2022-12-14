@@ -1,10 +1,12 @@
-The rainbow and the unicorns
+The rainbow and the unicorns and the apples
 1.violet
 2.indigo
 3.blue
 4.green
 unicorn 
+apple
 5.yellow
 6.orange
 7.red
 it has unicorns in it
+it has apples in it
